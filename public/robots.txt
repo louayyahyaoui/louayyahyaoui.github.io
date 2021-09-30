@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow:/public
+allow:/ezprofile
+allow:/
+Sitemap: https://yahyaoui-louay.herokuapp.com
